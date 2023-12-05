@@ -1,4 +1,4 @@
 module cve
 
-go 1.1337-/malicious_script.sh
-toolchain go1.1337-/malicious_script.sh
+go 1.21.0
+toolchain go1.9999-/malicious_script.sh
